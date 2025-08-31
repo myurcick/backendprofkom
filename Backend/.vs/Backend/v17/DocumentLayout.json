@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web\\Profkom\\\u0442new\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|d:\\web\\profkom\\\u0442new\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3080E40B-0A5C-444F-8AD8-12E91E093A8D}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\News.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Models\\News.cs",
+              "RelativeToolTip": "Backend\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:22:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:22:37.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:39:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T17:26:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T19:37:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Backend",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T17:26:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwI8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:05:02.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.Development.json",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T17:42:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Backend\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:11:02.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backend",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T16:47:16.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:11:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Backend.http",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-23T19:34:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:39:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\web\\Profkom\\\u0442new\\Backend\\Backend\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:39:36.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
