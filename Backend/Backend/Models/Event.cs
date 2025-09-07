@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ProfkomBackend.Models
+namespace ProfkomBackend.Models //заглушка під івенти далі зробимо повноцінну реалізацію
 {
     public class Event
     {
@@ -12,6 +12,6 @@ namespace ProfkomBackend.Models
         public DateTime StartsAt { get; set; }
         public DateTime EndsAt { get; set; }
         public string Location { get; set; }
-        public string ImageUrl { get; set; }
+        public string? ImageUrl { get; set; }
     }
 }

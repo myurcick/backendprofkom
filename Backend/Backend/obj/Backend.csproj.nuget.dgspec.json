@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\web\\Profkom\\тnew\\Backend\\Backend\\Backend.csproj": {}
+    "D:\\web\\Profkom\\new\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "D:\\web\\Profkom\\тnew\\Backend\\Backend\\Backend.csproj": {
+    "D:\\web\\Profkom\\new\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\web\\Profkom\\тnew\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "D:\\web\\Profkom\\new\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "D:\\web\\Profkom\\тnew\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "D:\\web\\Profkom\\new\\Backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\yuram\\.nuget\\packages\\",
-        "outputPath": "D:\\web\\Profkom\\тnew\\Backend\\Backend\\obj\\",
+        "outputPath": "D:\\web\\Profkom\\new\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,23 +56,25 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.18, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.17, )"
+              "version": "[8.0.0, )"
             },
-            "Microsoft.IdentityModel.Tokens": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.14.0, )"
+              "version": "[8.0.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [

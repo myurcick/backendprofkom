@@ -11,6 +11,8 @@ namespace ProfkomBackend.Data
         public DbSet<News> News { get; set; }
         public DbSet<Event> Events { get; set; }
         public DbSet<ContactMessage> ContactMessages { get; set; }
-        public DbSet<ProfileMember> ProfileMembers { get; set; }
+        public DbSet<Team> Team { get; set; }
+        public DbSet<Prof> Prof { get; set; }
+        public DbSet<Unit> Unit { get; set; }
     }
 }
